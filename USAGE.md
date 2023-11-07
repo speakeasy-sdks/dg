@@ -4,7 +4,6 @@
 ```python
 import tom
 
-
 s = tom.Tom()
 
 
