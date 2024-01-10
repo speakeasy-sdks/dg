@@ -1,12 +1,12 @@
 lockVersion: 2.0.0
 id: 1ea308b3-bb0d-46f3-beea-327b01f82478
 management:
-  docChecksum: 2516596125ef223fbbef6c434d22eaac
+  docChecksum: 1bdb7a6f8bf3995d4b40475228403253
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.228.1
-  releaseVersion: 0.5.2
-  configChecksum: 100af5e136eefb87b4efffec77ddc43b
+  generationVersion: 2.230.3
+  releaseVersion: 0.5.3
+  configChecksum: 2165002124eae2b4d9acd069f8620328
   repoURL: https://github.com/speakeasy-sdks/dg.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/dg.git
